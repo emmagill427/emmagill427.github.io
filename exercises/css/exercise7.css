@@ -1,0 +1,80 @@
+body {
+    color: #202020;
+    background-color: #F7F6ED;
+    margin: 0 auto;
+    max-width: 60rem;
+    color: #3D4849;
+    background-color: #f4f4f0;
+}
+
+main {
+    background-color:#dbd1cbd8;
+    padding: 20px;
+}
+
+h1{
+    color: black;
+    font-family: 'Yeseva One', cursive;
+    text-align:center
+}
+
+p{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: lightgray;
+    background-color: white;
+    padding: 1.3rem;
+
+}
+
+a.button:link {
+    color: #3d7527;
+    border: 1px solid #3d7527;
+    background-color: #d2f0ca9a;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    filter: drop-shadow(.3rem .3rem .2rem #c7c7c7);
+}
+
+a.button:visited {
+    color: #5e2281b6;
+    border: 1px solid #5e2281b6;
+    background-color: #d1b4e2b9;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    filter: drop-shadow(.3rem .3rem .2rem #c7c7c7);
+}
+
+a.button:hover {
+    color: #1a5305;
+    border: 1px solid #1a5305;
+    background-color: #afcea69f;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    filter: drop-shadow(.3rem .3rem .2rem #c7c7c7);
+}
+
+a.button:active {
+    color: #1a5305;
+    border: 1px solid #1a5305;
+    background-color: #dbebd6da;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    filter: drop-shadow(.3rem .3rem .2rem #c7c7c7);
+}
+
+a:link{
+    color: #3d7527;
+}

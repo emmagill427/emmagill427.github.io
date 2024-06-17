@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    background-color: #E9EAD0;
+}
+
+h1 {
+    color: black;
+    background-color: #9AC791;
+    padding: 20px;
+    letter-spacing: .5rem;
+    text-transform: lowercase;
+    font-family: 'Great Vibes', cursive;
+    width: 200px;
+    text-align: center;
+    
+    
+}   
+
+h2 {
+    color: black;
+    background-color: #b0d4aad8;
+    padding: 5px;
+    
+} 
+    
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link {
+    color: #1a5a0d;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #4b1bc5;
+}
+
+a:hover {
+    color: #0d2e09;
+    text-decoration: underline;
+}
+
+a:active {
+    color:#733dfd
+}
